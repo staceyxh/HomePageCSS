@@ -9,9 +9,14 @@ body
     width: 100px;
 }
 
+.nav
+{
+    background-color:lightgreen;
+}
 .nav a
 {
-    margin: 10px;
+    
+    margin: 5px;
     background-color:white;
-    border:solid, black, 1px;
+    border:1px, groove, black;
 }
