@@ -2,6 +2,7 @@ body
 {
     background-color: coral;
     background-image:  url("homepage.jfif");
+    background-size:cover;
     font-family: cursive;
 }
 
