@@ -1,0 +1,7 @@
+Notes for our project.
+
+We used a transform on the links in the nav bar so they grow slightly when you hover over them
+We used a transition on the image of the person's face to make it grow when hovered over. Give one to the narcissists in the room.
+We used color to distiguish between reading, lab, and prep assignments, as well as between current, past, or the next day.
+We used a different font and boldness for the assignment label to make it stick out more compared to the assignment.
+We changed the display of elements in the my account form to block so that it would lay out more nicely.
