@@ -38,12 +38,19 @@ body
 
 .PREP
 {
-    border-left: 5px solid darkred;
-    background-color: indianred;
+    border-left: 5px solid olivegreen;
+    background-color: seagreen;
 }
 
 .CURRENT
 {
-    border-left: 5px solid olivegreen;
-    background-color: seagreen;
+    border-left: 5px solid darkred;
+    background-color: indianred;
+}
+
+
+.COMPLETED
+{
+    border-left: 5px solid darkcyan;
+    background-color: paleturquoise;
 }
