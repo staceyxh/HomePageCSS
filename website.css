@@ -39,5 +39,11 @@ body
 .PREP
 {
     border-left: 5px solid darkred;
-    background-color: crimson;
+    background-color: indianred;
+}
+
+.CURRENT
+{
+    border-left: 5px solid olivegreen;
+    background-color: seagreen;
 }
