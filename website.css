@@ -81,7 +81,7 @@ body
     background-color: sandybrown;    
 }
 
-.reading *
+.reading
 {
     float: left;
 }
