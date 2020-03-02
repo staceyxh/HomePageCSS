@@ -86,3 +86,8 @@ body
     float: left;
     margin:20px;
 }
+
+.assignment-label
+{
+    font-family:Impact, Charcoal, sans-serif;
+}
