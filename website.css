@@ -35,3 +35,9 @@ body
     border-left: 5px solid orange;
     background-color:lemonchiffon;
 }
+
+.day-box PREP
+{
+    border-left: 5px solid darkred;
+    background-color: crimson;
+}
