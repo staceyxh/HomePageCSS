@@ -40,6 +40,13 @@ body
     border:1px groove black;
     border-radius: 8px;
     float: left;
+    transition:width 1s,height 1s;
+}
+
+.nav a:hover
+{
+    width: 15px;
+    height: 15px; 
 }
 
 .reading-box
