@@ -1,7 +1,6 @@
 body
 {
-    background-color: coral;
-    background-image:  url("background.jfif");
+    background-color: powderblue;
     background-size:cover;
     font-family: cursive;
 }
@@ -80,4 +79,9 @@ body
 {
     border-left: 5px solid 	saddlebrown;
     background-color: sandybrown;    
+}
+
+.reading *
+{
+    float: left;
 }
