@@ -18,7 +18,7 @@ body
     
 }
 
-.person_image:hoover
+.person_image:hover
 {
     width: 300px;
     height: 300px;
