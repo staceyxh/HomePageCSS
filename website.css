@@ -45,8 +45,7 @@ body
 
 .nav a:hover
 {
-    width: 60px;
-    height: 30px; 
+    transform: scale(1.25,1.25);
 }
 
 .reading-box
