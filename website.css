@@ -9,6 +9,7 @@ body
 {
     height: 100px;
     width: 100px;
+    transition:width 2s;
 }
 
 .nav
@@ -33,7 +34,6 @@ body
 {
     border-left: 5px solid orange;
     background-color:lemonchiffon;
-    transform: rotateY(50deg);
 }
 
 .lab-box
