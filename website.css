@@ -36,10 +36,21 @@ body
     background-color:lemonchiffon;
 }
 
-.PREP
+.lab-box
+{
+    border-left: 5px solid darkslategray;
+    background-color:darkgray;   
+}
+
+.PREP .day
 {
     border-left: 5px solid olivedrab;
     background-color: seagreen;
+}
+
+.PREP .reading-box
+{
+    border-left: 5px solid olivedrab;
 }
 
 .CURRENT .day
@@ -48,9 +59,19 @@ body
     background-color: indianred;
 }
 
+.CURRENT .reading-box
+{
+    border-left: 5px solid darkred;
+}
+
 
 .COMPLETED .day
 {
     border-left: 5px solid 	indigo;
     background-color: mediumpurple;
+}
+
+.COMPLETED .reading-box
+{
+    border-left: 5px solid 	indigo;
 }
